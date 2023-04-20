@@ -1,1 +1,2 @@
-# c25.github.io
+# PRO-C25-SA
+boilerplate code for student activituy
